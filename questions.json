@@ -1,0 +1,28 @@
+[
+    {
+        "question" : "Inside which tag js file are kept in HTML",
+        "choice1" : "<script>",
+        "choice2" : "<body>",
+        "choice3" : "<link>",
+        "choice4" : "<img>",
+        "answer": 1
+    },
+    {
+        "question" : "What is HTML abrevation",
+        "choice1" : "HyperText Markup Language",
+        "choice2": "<body>",
+        "choice3" : "<link>",
+        "choice4" : "<img>",
+        "answer": 1
+    },
+    {
+        "question" : "Which is Inline element",
+        "choice1" : "<script>",
+        "choice2" : "<body>",  
+        "choice3" : "<link>",
+        "choice4" : "<img>",
+        "answer": 4
+    }
+
+
+]   
